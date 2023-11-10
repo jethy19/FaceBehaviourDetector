@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058616814864",
+    "project_id": "facedetectorbehavoiur",
+    "storage_bucket": "facedetectorbehavoiur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058616814864:android:ff40a7fcbfd3b181390995",
+        "android_client_info": {
+          "package_name": "com.example.facedetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Kip9KMIytVtGSCKzQuebVQAquONH8jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
